@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    gccxml_gem (0.9.3)
+    nokogiri (1.4.7)
+    rbgccxml (1.0.3)
+      gccxml_gem (~> 0.9)
+      nokogiri (~> 1.4.0)
+    rbplusplus (1.2.1)
+      rbgccxml (~> 1.0.0)
+      rice (~> 1.6.0)
+    rice (1.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rbplusplus
