@@ -1,3 +1,6 @@
 a.out
 vendor/gems
+vendor/bin
 .bundle
+lib/*
+!.gitkeep
